@@ -64,6 +64,7 @@ a:hover {
 /*----------About Me----------*/
 
 .showCase {
+    height: 65vh;
    width:100%;
    background:#ddd;
    padding:25px 0 120px 0;
